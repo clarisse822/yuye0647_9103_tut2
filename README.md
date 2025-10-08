@@ -1,8 +1,8 @@
 # yuye0647_9103_tut2
-My first repository for IDEA9103
+My first repository for IDEA9103 quiz 8
 
-# Header 1
-## Header 2
+# Imaging Technique Inspiration
+## Header Coding Technique Exploration
 ### Header 3
 #### Header 4
 ##### Header 5
