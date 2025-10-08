@@ -4,7 +4,7 @@ My first repository for IDEA9103 quiz 8
 # Part 1 — Imaging Technique Inspiration 
 
 - I initially considered employing the *“Photomontage”* technique, assembling multiple images into a cohesive work. However, due to complexity concerns, I ultimately opted for *”Halftone Imaging“*. This technology simulates continuous-tone images by using dots of varying sizes or spacing, thereby producing gradient-like effects. This approach draws inspiration from newspaper printing, where dot-based reconstruction of light and dark tones could effectively recreates our selected artworks through code generation. Composed of dots, each arranged differently, it seamlessly demonstrates the artwork while enabling natural transitions in color and light.
-- ![An image of newspaper](https://www.alamy.com/vintage-newspaper-page-halftone-effect-nostalgic-background-image501689578.html)
+- ![An image of newspaper](halftone_plugin_example_newspaper.jpg)
 
 ## Header 2
 ### Header 3
