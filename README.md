@@ -1,8 +1,8 @@
 # yuye0647_9103_tut2
 My first repository for IDEA9103 quiz 8
 
-# Imaging Technique Inspiration
-## Header Coding Technique Exploration
+# Part 1 — Imaging Technique Inspiration 
+## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
@@ -13,15 +13,9 @@ My first repository for IDEA9103 quiz 8
 *Italic text* or _Italic Text_
 
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+- Part 1: Imaging Technique Inspiration
+- Part 2: Coding Technique Exploration
 
-1. First Item
-1. Second Item
-1. New Item
-1. Third Item
 
 [Link Text](https://www.google.com)
 
