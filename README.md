@@ -30,7 +30,3 @@ My first repository for IDEA9103 quiz 8
 1. [Link Text](https://medium.com/@saissi1701/the-art-of-halftone-in-python-how-to-create-subtly-nuanced-images-with-different-techniques-619265604ce8)
 
 2. [Link Text](https://ggcarvalho.dev/posts/imageproc/)
-
->This is quote
->over multiple lines
->and on and on it goes.
