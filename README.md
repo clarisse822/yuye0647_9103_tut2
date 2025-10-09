@@ -15,7 +15,7 @@ My first repository for IDEA9103 quiz 8
 
 ### Part 2: Coding Technique Exploration
 
-- They are all based on ##Pixel Array Sampling##, which converts continuous-tone images into halftone effects composed of dots by accessing and analyzing the image's brightness data, ultimately forming a complete picture.
+- They are all based on **Pixel Array Sampling**, which converts continuous-tone images into halftone effects composed of dots by accessing and analyzing the image's brightness data, ultimately forming a complete picture.
 
 - ![An image of newspaper](readmeImages/Screenshot 2025-10-09 at 13.49.22)
 
