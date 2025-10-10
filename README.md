@@ -15,11 +15,13 @@ My first repository for IDEA9103 quiz 8
 
 ### Part 2: Coding Technique Exploration
 
-- They are all based on **Pixel Array Sampling**, which converts continuous-tone images into halftone effects composed of dots by accessing and analyzing the image's brightness data, ultimately forming a complete picture.
+- Based on **Pixel Array Sampling**, which converts continuous-tone images into halftone effects composed of dots by accessing and analyzing the image's brightness data, ultimately forming a complete picture.
+- load source image first and create canvas, then loadPixels() loads the pixel data from the image into the pixels[] array, which contains RGBA values for every pixel. Use map() to map brightness (grayscale values) to a range of dot radii. Smaller dots represent brighter areas, while larger dots indicate darker areas. Map the sampled points to canvas coordinates and draw corresponding-sized dots using ellipse(). The combined density and size of these dots form the overall brightness and darkness.
+- fill(r, g, b) to make it colorful
 
-- ![An image of newspaper](readmeImages/Screenshot.jpg)
+- ![An image of example](readmeImages/Screenshot.jpg)
 
-1. My references from[Link Text](https://editor.p5js.org/chrsgrbr/sketches/mLNDLCYys)
+1. My references from [Link Text](https://editor.p5js.org/chrsgrbr/sketches/mLNDLCYys)
 
 2. [Link Text](https://editor.p5js.org/steffen.reichelt/sketches/HlcVimzBv)
 
